@@ -11,3 +11,5 @@ git clone https://github.com/Divyesh-Bhanvadiya/GAM531-Assignment-1.git
 ```
 2. Open in the IDE of your choice and install `OpenTK (4.9.4)` as a dependency.
 3. Build and run the project. 
+
+- Divyesh Bhanvadiya (Student ID: 148647233)
